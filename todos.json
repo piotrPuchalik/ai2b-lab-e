@@ -1,0 +1,11 @@
+{
+  "todos": [
+    {
+      "title": "Trzecie zadanie",
+      "deadline": "2022-01-30",
+      "completed": true,
+      "archived": true,
+      "id": 1
+    }
+  ]
+}
