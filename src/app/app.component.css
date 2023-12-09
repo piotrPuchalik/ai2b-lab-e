@@ -1,27 +1,18 @@
-header {
-  background-color: var(--secondary-color);
-  color: var(--accent-color);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 1em;
-  margin-bottom: 1em;
-}
-
-header a {
-  color: var(--accent-color);
-  text-decoration: none;
-}
 
 .router-outlet {
   min-height: 70vh;
 }
-header nav {
-  display: flex;
-  gap: 1em;
-}
+
 footer {
   background-color: var(--primary-color);
   color: var(--accent-color);
   padding: 0.5em 1em;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+mat-chip-listbox a {
+  text-decoration: none;
 }
