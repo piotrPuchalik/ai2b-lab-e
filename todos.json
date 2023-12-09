@@ -1,11 +1,25 @@
 {
   "todos": [
     {
-      "title": "Trzecie zadanie",
-      "deadline": "2022-01-30",
+      "title": "Zadanie 1",
+      "deadline": "2023-12-05",
+      "completed": false,
+      "archived": false,
+      "id": 2
+    },
+    {
+      "title": "Zadanie 2",
+      "deadline": "2023-12-04",
       "completed": true,
       "archived": true,
-      "id": 1
+      "id": 3
+    },
+    {
+      "title": "zadanie 2 ",
+      "deadline": "2023-12-05T23:00:00.000Z",
+      "completed": false,
+      "archived": false,
+      "id": 4
     }
   ]
 }
